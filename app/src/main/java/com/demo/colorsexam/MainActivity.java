@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         position = spinnerColors.getSelectedItemPosition();
         String description = viewDescription(position);
         textViewFindDescription.setText(description);
+        
     }
 
     public String viewDescription (int position) {
