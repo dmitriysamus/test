@@ -33,5 +33,3 @@ public class MainActivity extends AppCompatActivity {
         return desc[position];
     }
 }
-
-testTest
