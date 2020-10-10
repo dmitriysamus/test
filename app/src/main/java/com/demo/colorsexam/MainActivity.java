@@ -32,5 +32,4 @@ public class MainActivity extends AppCompatActivity {
         String [] desc = getResources().getStringArray(R.array.Description);
         return desc[position];
     }
-
 }
