@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">ColorsExam</string>
+
     <string-array name="FindColors">
         <item>Красный</item>
         <item>Синий</item>
@@ -7,7 +8,9 @@
         <item>Зеленый</item>
         <item>Голубой</item>
     </string-array>
+
     <string name="Chose">Определите цвет</string>
+
     <string-array name="Description">
         <item>Красный-класный</item>
         <item>Синий-синий</item>
@@ -15,4 +18,5 @@
         <item>Зеленый - вы сдержанный и совпитанный человек</item>
         <item>Голубой - красавчик!</item>
     </string-array>
+
 </resources>

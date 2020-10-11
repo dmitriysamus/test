@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Spinner;
 import android.widget.TextView;
-//master+
+
 public class MainActivity extends AppCompatActivity {
 
     private Spinner spinnerColors;
@@ -28,13 +28,10 @@ public class MainActivity extends AppCompatActivity {
         
     }
 
+
     public String viewDescription (int position) {
         String [] desc = getResources().getStringArray(R.array.Description);
         return desc[position];
     }
 
-
-
-
-    
 }
